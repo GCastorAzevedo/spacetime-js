@@ -1,0 +1,22 @@
+{
+  "name": "spacetime",
+  "version": "1.0.0",
+  "description": "An engine prototype for trajectories on curved 2+1 D spacetimes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GCastorAzevedo/spacetime-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GCastorAzevedo/spacetime-js/issues"
+  },
+  "homepage": "https://github.com/GCastorAzevedo/spacetime-js#readme",
+  "dependencies": {
+    "mathjs": "^7.0.1"
+  }
+}
